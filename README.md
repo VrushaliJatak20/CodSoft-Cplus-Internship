@@ -16,10 +16,6 @@ Task 3: Tic - Tac - Toe Game.
 Build a simple console-based Tic-Tac-Toe game that
 allows two players to play against each other
 
-TASK 3
-
-TIC-TAC-TOE GAME
-
 Game Board: Create a 3x3 grid as the game board.
 Players: Assign
 "X"
